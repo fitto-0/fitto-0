@@ -18,7 +18,7 @@
   `🌿 Greenly` — an eco-conscious lifestyle app  
   `💄 Diva's Bloom` — a cosmetics e-commerce website  
   `🎧 Synesthesia` — a music-powered visual experience  
-- 🎨 Aesthetic style addict | Karate black belt | Figma enthusiast | Dev by day, dreamer always 🌙  
+- 🎨 Aesthetic style addict | Figma enthusiast | Dev by day, dreamer always 🌙  
 
 ---
 

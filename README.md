@@ -14,10 +14,6 @@
 
 - 🎓 CS Student on a journey to create beautiful + useful web & mobile apps  
 - 💼 Founder of [Veyora](https://www.instagram.com/veyoraagency) — empowering brands through clean code & dreamy design  
-- 💡 Currently working on:  
-  `🌿 Greenly` — an eco-conscious lifestyle app  
-  `💄 Diva's Bloom` — a cosmetics e-commerce website  
-  `🎧 Synesthesia` — a music-powered visual experience  
 - 🎨 Aesthetic style addict | Figma enthusiast | Dev by day, dreamer always 🌙  
 
 ---
@@ -32,12 +28,7 @@
 
 ### 🗂️ Projects
 
-| Project        | Description                                         | Tech Stack                      |
-|----------------|-----------------------------------------------------|---------------------------------|
-| 🌿 Greenly     | Eco-tracker app to help users live greener lives    | React Native, PHP, MySQL       |
-| 💄 Diva's Bloom  | Elegant cosmetics e-commerce website                | PHP, MySQL, HTML, CSS, JS      |
-| 🎧 Synesthesia | Real-time music visualizer using AI & sound waves  | HTML, JS, Web Audio API        |
-| 📊 Portfolios Creator| PHP + MySQL project make people able to create their own portfolio | PHP, MySQL, HTML, CSS          |
+just check the repos 🤷🏻‍♀️
 
 ---
 
